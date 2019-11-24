@@ -8,7 +8,7 @@ LCD scripts to change display on raspberry pie
 ### Technologies ####
 * Language programming: python 3
 
-### Running from your IDE ###
+### Running from your CLI ###
 run 'sh DisplayLCD.py' from CLI 
 
 ### Overall approach  ###
