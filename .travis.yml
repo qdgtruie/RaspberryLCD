@@ -10,7 +10,8 @@ python:
 addons:
   apt:
     packages:
-      - libgnutls-dev
+      - libxml2-dev
+      - libxslt-dev
 virtualenv:
   system_site_packages: false
 
