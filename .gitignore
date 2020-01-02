@@ -56,7 +56,7 @@ docs/_build/
 # PyBuilder
 target/
 
-A
-A
-A
+# Intellij specific files
+*.iml
+.idea
 
