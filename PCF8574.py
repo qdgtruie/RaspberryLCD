@@ -6,6 +6,7 @@
 ########################################################################
 import smbus
 import time
+
 class PCF8574_I2C(object):
     OUPUT = 0
     INPUT = 1

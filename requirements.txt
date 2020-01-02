@@ -1,2 +1,6 @@
 python-dateutil==2.7.3
+smbus-cffi==0.5.1
+flake8==3.7.9
+pytest==5.3.2
+pytest-cov==2.8.1
 
